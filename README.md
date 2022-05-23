@@ -6,7 +6,7 @@ In addition, Android can directly enable / disable bluetooth.
 
 ## Installation
 
-`$ npm install react-native-bluetooth-status --save`
+`$ npm install concent-solutions/react-native-bluetooth-status --save`
 
 On RN 0.60+ with autolinking run `pod install` in your `ios/` folder.
 
